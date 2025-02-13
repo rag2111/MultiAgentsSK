@@ -1,4 +1,13 @@
-# Instructions to Update Configuration File
+# How to run this
+
+## Prerequisites
+
+1. An instance of [Azure OpenAI](https://azure.microsoft.com/en-us/services/cognitive-services/openai-service/) with a deployment of a GPT-4 model or similar.
+2. [Visual Studio Code (VS Code)](https://code.visualstudio.com/).
+3. [.NET Interactive](https://github.com/dotnet/interactive).
+4. [Jupyter Notebooks extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+
+## Steps
 
 To update the configuration file, follow these steps:
 
@@ -9,3 +18,14 @@ To update the configuration file, follow these steps:
 5. Save the changes to the `config.json` file.
 
 Your configuration file is now ready for use.
+
+## Now, you can run it!
+
+To run the Jupyter Notebooks, follow these steps:
+
+1. Open the notebook you want to run.
+2. Clear the outputs (if needed).
+3. Restart the kernel.
+4. Run all cells (or run each cell manually).
+
+Your notebook should now be running successfully.
