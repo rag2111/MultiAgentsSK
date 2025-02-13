@@ -1,0 +1,5 @@
+{
+  "AOAI_apikey": "<YOUR AZURE OPENAI KEY>",
+  "AOAI_endpoint": "<YOUR AZURE OPENAI ENDPOINT>",
+  "AOAI_deploymentname": "<YOUR AZURE OPENAI DEPLOYMENT NAME>"
+}
